@@ -22,5 +22,22 @@ function newItem() {
     }
     // Event Listener for the crossOut function.
     li.on('click',crossOut);
+
+
+    // creates a new element with the tag `crossOutButton and sets its text to 'X'
+    let crossOutButton = $('<crossOutButton>').text('X');
+
+    //adds the crossOutButton element created in the previous line as a child of the li element
+    li.append(crossOutButton);
+
+    
+    function deleteListItem(){
+        li.addClass('delete')
+
+    }
+
+    crossOutButton.on('click',deleteListItem);
+
         
 }
+
