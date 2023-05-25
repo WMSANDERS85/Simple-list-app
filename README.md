@@ -12,8 +12,8 @@
 
 ## Links
 
- - [My Code]()
- - [Project site]()
+ - [My Code](https://github.com/WMSANDERS85/Simple-list-app)
+ - [Project URL](https://wmsanders85.github.io/Simple-list-app/)
 
 
 ### Programming Languages
@@ -25,5 +25,5 @@
 
 ### Used Resources
  
- - [JavaScript Template]()
- - [jQuery]()
+ - [JavaScript Template](https://replit.com/@CFCurriculum/jQuery-to-do-list)
+ - [jQuery](https://releases.jquery.com/)
